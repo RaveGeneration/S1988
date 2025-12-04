@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" progName="Default" currentPresetFilePath="Default.preset" currentPresetFileRoot="1" MIDIInputDefault="1" MIDIOutputDefault="1" MIDIProgramChangeChannel="-1" cycleNextPrevPresetInBank="0" midiOutForProgramChangeEnabled="0" midiOutForBankSelectEnabled="0">
+    <MIDIController.meta locked="0"/>
+    <MIDINextPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDINextBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <inputParams count="22" p0="0" p1="0" p2="0" p3="0" p4="20" p5="20000" p6="0" p7="0" p8="44100" p9="16" p10="0" p11="100" p12="50" p13="1" p14="0" p15="0" p16="0" p17="0" p18="500" p19="100" p20="0" p21="1"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <model/>
+    <GUI version="1" useDefault="1" skinZoom="1.3000000000000000444" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="2">
+                    <p0 name="global_opacity" value="100"/>
+                    <p1 name="persistent_param" value="0"/>
+                </params>
+                <strings sCount="2">
+                    <s0 name="persistent_string" value="234234"/>
+                    <s1 name="persistent_string2" value="2342344"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
