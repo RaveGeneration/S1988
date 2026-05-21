@@ -1,1 +1,1 @@
-<img width="1812" height="845" alt="s1988 101 screen" src="https://github.com/user-attachments/assets/ca0f9ab5-28f5-4936-bee5-c003e8409576" />
+<img width="1389" height="608" alt="s1988 104 screen" src="https://github.com/user-attachments/assets/e9a766db-741f-4f1e-9bba-e0199de55fa0" />
